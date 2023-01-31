@@ -1,4 +1,3 @@
-gc
 base64
 re
 time
