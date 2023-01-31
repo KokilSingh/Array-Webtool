@@ -3,9 +3,7 @@ import base64
 import re
 from time import sleep
 import uuid
-from array import array
 
-import numpy as np
 import pandas as pd
 import streamlit as st
 from stqdm import stqdm
