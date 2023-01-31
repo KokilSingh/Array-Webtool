@@ -8,7 +8,6 @@ from array import array
 import numpy as np
 import pandas as pd
 import streamlit as st
-from scipy.stats.distributions import chi2
 from stqdm import stqdm
 
 
